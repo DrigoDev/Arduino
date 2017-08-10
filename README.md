@@ -1,3 +1,2 @@
 # arduino
-Arduino projetcs
-Projets Arduino
+Arduino projects
